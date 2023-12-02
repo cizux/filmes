@@ -5,4 +5,4 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/cizux?style=social)
 
 ###  🏷️ Sobre o Projeto: <br>
-API para catalogar Filmes, seu elenco, produtores e empresas, terá mais detakhes no processo evolutico da API.
+API para catalogar Filmes, seu elenco, produtores e empresas, terá mais detalhes no processo evolutivo da API.
